@@ -1,0 +1,8 @@
+.articles {
+  background-color: #caaee5;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding-top: 1rem;
+}
